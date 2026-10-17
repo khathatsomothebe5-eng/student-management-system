@@ -13,18 +13,27 @@ const emptyForm = {
 
 const initialStudents = [
   {
-    id: 'ST001',
-    name: 'Lerato Mokoena',
-    age: 20,
-    email: 'lerato@example.com',
+    id: '451095',
+    name: 'Khathatso Mothebe',
+    age: 24,
+    email: 'khathatsomothebe@gmail.com',
+    course: 'Business IT',
+    status: true
+  },
+
+  {
+    id: '451080',
+    name: 'Itumeleng Morake',
+    age: 19,
+    email: 'itumeleng@gmail.com',
     course: 'Business IT',
     status: true
   },
   {
-    id: 'ST002',
-    name: 'Thabo Ndlovu',
+    id: '451057',
+    name: 'Boleba Khonkhe',
     age: 22,
-    email: 'thabo@example.com',
+    email: 'boleba@gmail.com',
     course: 'Accounting',
     status: true
   }
